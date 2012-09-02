@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Colin's Blog]]></title>
-  <link href="http://jichen3000.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: test | Colin's Blog]]></title>
+  <link href="http://jichen3000.github.com/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://jichen3000.github.com/"/>
   <updated>2012-09-02T20:38:30+08:00</updated>
   <id>http://jichen3000.github.com/</id>
@@ -18,7 +18,7 @@
     <link href="http://jichen3000.github.com/blog/2012/09/02/my-first-blog/"/>
     <updated>2012-09-02T20:32:00+08:00</updated>
     <id>http://jichen3000.github.com/blog/2012/09/02/my-first-blog</id>
-    <content type="html"><![CDATA[<p>It&#8217;s just for test.</p>
+    <content type="html"><![CDATA[<p>It's just for test.</p>
 ]]></content>
   </entry>
   
