@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Others | Colin's Blog]]></title>
   <link href="http://jichen3000.github.com/blog/categories/others/atom.xml" rel="self"/>
   <link href="http://jichen3000.github.com/"/>
-  <updated>2012-09-02T20:38:30+08:00</updated>
+  <updated>2012-09-02T20:39:41+08:00</updated>
   <id>http://jichen3000.github.com/</id>
   <author>
     <name><![CDATA[Colin Ji]]></name>
@@ -18,7 +18,8 @@
     <link href="http://jichen3000.github.com/blog/2012/09/02/my-first-blog/"/>
     <updated>2012-09-02T20:32:00+08:00</updated>
     <id>http://jichen3000.github.com/blog/2012/09/02/my-first-blog</id>
-    <content type="html"><![CDATA[<p>It's just for test.</p>
+    <content type="html"><![CDATA[<p>It's just for test.
+中文应该也没有问题吧。</p>
 ]]></content>
   </entry>
   
